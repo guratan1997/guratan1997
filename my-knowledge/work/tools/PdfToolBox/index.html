@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PDF操作ツール</title>
+    <link rel="stylesheet" href="style.css">
+    
+    <!-- ライブラリの読み込み順序を最適化 -->
+    <script src="https://cdn.jsdelivr.net/npm/pdfjs-dist@3.4.120/build/pdf.min.js"></script>
+    <script>
+        // PDF.jsのワーカーを設定
+        window.pdfjsLib = window.pdfjsLib || {};
+        window.pdfjsLib.GlobalWorkerOptions = window.pdfjsLib.GlobalWorkerOptions || {};
+        window.pdfjsLib.GlobalWorkerOptions.workerSrc = 'https://cdn.jsdelivr.net/npm/pdfjs-dist@3.4.120/build/pdf.worker.min.js';
+    </script>
+    <script src="https://cdn.jsdelivr.net/npm/pdf-lib@1.17.1/dist/pdf-lib.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sortablejs@1.15.0/Sortable.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/file-saver@2.0.5/dist/FileSaver.min.js"></script>
+</head>
+<body>
+    <div class="container">
+        <h1>PDF操作ツール</h1>
+        
+        <div class="tabs">
+            <button class="tab-btn active" data-tab="merge">PDFの結合</button>
+            <button class="tab-btn" data-tab="split">PDFの分割</button>
+            <button class="tab-btn" data-tab="rotate">PDFの回転</button>
+            <button class="tab-btn" data-tab="reorder">ページの並べ替え</button>
+            <button class="tab-btn" data-tab="extract">ページの抽出</button>
+        </div>
+        
+        <div class="tab-content active" id="merge">
+            <h2>PDFの結合</h2>
+            <div class="file-input-container">
+                <input type="file" id="merge-file-input" accept=".pdf" multiple>
+                <label for="merge-file-input">PDFファイルを選択（複数可）</label>
+            </div>
+            <div id="merge-file-list" class="file-list"></div>
+            <button id="merge-btn" class="action-btn" disabled>PDFを結合</button>
+        </div>
+        
+        <div class="tab-content" id="split">
+            <h2>PDFの分割</h2>
+            <div class="file-input-container">
+                <input type="file" id="split-file-input" accept=".pdf">
+                <label for="split-file-input">PDFファイルを選択</label>
+            </div>
+            <div id="split-options" class="options-container">
+                <div class="option">
+                    <label for="split-type">分割方法:</label>
+                    <select id="split-type">
+                        <option value="all">全ページを個別ファイルに</option>
+                        <option value="range">ページ範囲で分割</option>
+                    </select>
+                </div>
+                <div id="range-input" class="option hidden">
+                    <label for="page-ranges">ページ範囲 (例: 1-3,5,7-9):</label>
+                    <input type="text" id="page-ranges" placeholder="1-3,5,7-9">
+                </div>
+            </div>
+            <div id="split-preview" class="preview-container"></div>
+            <button id="split-btn" class="action-btn" disabled>PDFを分割</button>
+        </div>
+        
+        <div class="tab-content" id="rotate">
+            <h2>PDFの回転</h2>
+            <div class="file-input-container">
+                <input type="file" id="rotate-file-input" accept=".pdf">
+                <label for="rotate-file-input">PDFファイルを選択</label>
+            </div>
+            <div id="rotate-preview" class="preview-container"></div>
+            <div id="rotate-controls" class="controls-container hidden">
+                <div class="control-group">
+                    <label>回転角度:</label>
+                    <button class="rotate-btn" data-degrees="90">90°時計回り</button>
+                    <button class="rotate-btn" data-degrees="180">180°</button>
+                    <button class="rotate-btn" data-degrees="270">90°反時計回り</button>
+                </div>
+                <div class="control-group">
+                    <label>適用範囲:</label>
+                    <select id="rotate-scope">
+                        <option value="selected">選択したページのみ</option>
+                        <option value="all">すべてのページ</option>
+                    </select>
+                </div>
+            </div>
+            <button id="rotate-save-btn" class="action-btn" disabled>回転したPDFを保存</button>
+        </div>
+        
+        <div class="tab-content" id="reorder">
+            <h2>ページの並べ替え</h2>
+            <div class="file-input-container">
+                <input type="file" id="reorder-file-input" accept=".pdf">
+                <label for="reorder-file-input">PDFファイルを選択</label>
+            </div>
+            <div id="reorder-preview" class="preview-container sortable"></div>
+            <div class="info-text">ページをドラッグ＆ドロップで並べ替えてください</div>
+            <button id="reorder-save-btn" class="action-btn" disabled>並べ替えたPDFを保存</button>
+        </div>
+        
+        <div class="tab-content" id="extract">
+            <h2>ページの抽出</h2>
+            <div class="file-input-container">
+                <input type="file" id="extract-file-input" accept=".pdf">
+                <label for="extract-file-input">PDFファイルを選択</label>
+            </div>
+            <div id="extract-preview" class="preview-container"></div>
+            <div class="info-text">抽出したいページをクリックして選択してください</div>
+            <button id="extract-save-btn" class="action-btn" disabled>選択したページを抽出</button>
+        </div>
+    </div>
+    
+    <!-- ローディングオーバーレイ -->
+    <div id="loading-overlay">
+        <div class="spinner"></div>
+        <div class="loading-text">処理中...</div>
+    </div>
+    
+    <!-- スクリプトを最後に読み込む -->
+    <script src="script.js"></script>
+</body>
+</html> 

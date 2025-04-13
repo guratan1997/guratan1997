@@ -1,0 +1,3 @@
+- 生成AIと回帰分析
+- transformer
+- MCP,A2A

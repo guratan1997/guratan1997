@@ -10,19 +10,22 @@
 
 # LINEのトーク履歴をすべて移行できる機種一覧（2025年版）
 
-## 1. 公式機能だけで“完全移行”できるケース
+## 1. 公式機能だけで “完全移行” できるケース
 
-| 元端末 | 新端末 | 方法 | 主な対応機種（24‑25年モデル例） | 備考 |
+| ケース（移行元 → 移行先） | 移行方法 | 主な対応機種（2024‑25年モデル例） | 必要 OS / LINE 条件 | 備考 |
 |---|---|---|---|---|
-| **iPhone → iPhone** | iCloudバックアップ／復元 | iPhone 12～16シリーズ、SE(第3世代) など | iOS 17以降 & LINE最新版 |
-| **Android → Android** | Googleドライブバックアップ／復元 | Pixel 8/9、Galaxy S24/S25、Xperia 1 VI/5 VI、AQUOS R9 等 | Android 13以降 & LINE最新版 |
-| **iPhone ↔ Android** | LYPプレミアム「プレミアムバックアップ」 | iPhone：上記条件／Android：Google Play対応端末 | 全履歴＋写真・動画もOK (月額¥500) :contentReference[oaicite:0]{index=0} |
+| iPhone → **iPhone** | iCloud バックアップ & 復元 | iPhone 12 以降、iPhone SE(第3世代)〜最新 iPhone 16 シリーズ | iOS 17 以降 ＆ LINE 最新版 | ― |
+| Android → **Android** | Google ドライブ バックアップ & 復元 | Pixel 8/9/9 Pro、Galaxy S24/S25、Xperia 1 VI / 5 VI、AQUOS R9 など | Android 13 以降 ＆ LINE 最新版 | ― |
+| **iPhone ↔ Android**<br>（双方向） | **LYP プレミアム**「プレミアムバックアップ」 | iPhone：上記と同じ／Android：Google Play 搭載端末ならほぼ全機種 | iOS 17+ もしくは Android 13+ ＆ LINE 最新版 | 写真・動画含め全履歴可（月額 ¥500） |
 
-## 2. 公式機能では制限が残るケース
+---
 
-| 元端末 | 新端末 | 移行できる履歴 | 補足 |
+## 2. 公式機能では “一部のみ” 移行できるケース（無料機能利用）
+
+| ケース（移行元 → 移行先） | 無料公式機能で移行できる範囲 | 移せないデータ例 | 備考 |
 |---|---|---|---|
-| iPhone ↔ Android | 直近14日分のみ | Easy Transfer (QR/PIN)、コイン・通知音不可 :contentReference[oaicite:1]{index=1} |
+| iPhone → **Android** | 直近 **14 日分** のトーク（Easy Transfer QR / PIN） | 14 日以前のトーク全文／LINE コイン残高／通知音設定／トーク背景 | 全履歴が必要ならプレミアムバックアップや PC ソフトを検討 |
+| Android → **iPhone** | 直近 **14 日分** のトーク（Easy Transfer QR / PIN） | 同上 | 同上 |
 
 ## 3. 機種選びのチェックリスト
 

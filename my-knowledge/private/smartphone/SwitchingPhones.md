@@ -118,15 +118,14 @@
 - docomoでMNP予約番号を取得
 - 格安SIM申し込み時に入力するだけ
 
--  | iPhone 11 | iPhone 16 | iPhone 16 Pro | Galaxy S25 | Galaxy S25 Ultra | Pixel 9 | Pixel 9a | Xperia 1 VI
-発売時参考価格 (JP) | 販売終了※発売時64 GB＝74,800円(税別)≈82,280円(税込) Apple | 124,800 円 | 159,800 円 | 129,000 円 (256 GB) | 199,800 円 (256 GB) | 128,900 円 | 79,900 円 | 179,300 円
-SoC / CPU | A13 Bionic Appleサポート | A18 | A18 Pro | Snapdragon 8 Elite | 同左 | Tensor G4 | Tensor G4 | Snapdragon 8 Gen 3
-RAM | 4 GB GSMArena | 8 GB | 8 GB | 12 GB | 12 GB | 12 GB | 8 GB | 12 GB
-画面 & リフレッシュ | 6.1" LCD 60 Hz Appleサポート | 6.1" OLED 60 Hz | 6.3" OLED 1‑120 Hz | 6.2" OLED 1‑120 Hz | 6.9" OLED 1‑120 Hz | 6.3" OLED 1‑120 Hz | 6.3" OLED 60 Hz | 6.5" LTPO OLED 1‑120 Hz
-バッテリー容量 | 3,110 mAh GSMArena | 4,085 mAh* | 4,685 mAh | 4,000 mAh (実測3,900) | 5,000 mAh | 4,700 mAh | 5,100 mAh Wikipedia – Die freie Enzyklopädie | 5,000 mAh
-充電 (有線) | 最大18 W (PD) Appleサポート | 27 W | 35 W | 25 W | 45 W | 27 W | 23 W | 30 W
-背面カメラ | 12 MP Wide + 12 MP UW Appleサポート | 48 MP | 48 +48 (UW)+12 (5×) | 50 +12 (UW)+10 (3×) | 200 +50/48/12 | 50 +48 (UW) | 64 +12 (UW) | 48 +12 (UW)+12 (85‑170 mm)
-FeliCa / おサイフ | Apple Pay Suica対応 Appleサポート | 同左 | 同左 | 対応 (国内版) | 同左 | 対応 (国内版) | 同左 | 対応
-eSIM / DSDS | nanoSIM+eSIM / DSDS Appleサポート | 同左 | 同左 | 同左 | 同左 | 同左 | 同左 | 同左
-OSアップデート状況 | iOS 18対応（あと≈2年想定） Appleサポート | 5‑7年見込み | 同左 | 7年保証 | 同左 | 7年保証 | 同左 | 3世代保証
-重量 | 194 g Appleサポート | 173 g | 203 g | 167 g | 232 g | 198 g | 193 g | 192 g
+| 機種 | 発売時参考価格 (日本) | SoC | RAM | 画面/リフレッシュ | バッテリー | 有線充電 | 背面カメラ構成 | FeliCa | OSアップデート保証 | 重量 |
+|------|----------------------|-----|-----|------------------|-----------|----------|-----------------|--------|-------------------|------|
+| iPhone 11 | 82,280 円 (64 GB) | A13 Bionic | 4 GB | 6.1" LCD 60 Hz | 3,110 mAh | 18 W | 12 MP + 12 MP UW | Apple Pay | iOS18対応中 (残り≈2年) | 194 g |
+| iPhone 16 | 124,800 円 | A18 | 8 GB | 6.1" OLED 60 Hz | 4,085 mAh* | 27 W | 48 MP | Apple Pay | 5–7 年想定 | 173 g |
+| iPhone 16 Pro | 159,800 円 | A18 Pro | 8 GB | 6.3" OLED 1‑120 Hz | 4,685 mAh | 35 W | 48 MP + 48 MP UW + 12 MP 5× | Apple Pay | 5–7 年想定 | 203 g |
+| Galaxy S25 | 129,000 円 (256 GB) | Snapdragon 8 Elite | 12 GB | 6.2" OLED 1‑120 Hz | 4,000 mAh | 25 W | 50 MP + 12 MP UW + 10 MP 3× | ○ | 7 年保証 | 167 g |
+| Galaxy S25 Ultra | 199,800 円 (256 GB) | Snapdragon 8 Elite | 12 GB | 6.9" OLED 1‑120 Hz | 5,000 mAh | 45 W | 200 MP + 50/48/12 MP | ○ | 7 年保証 | 232 g |
+| Pixel 9 | 128,900 円 | Tensor G4 | 12 GB | 6.3" OLED 1‑120 Hz | 4,700 mAh | 27 W | 50 MP + 48 MP UW | ○ | 7 年保証 | 198 g |
+| Pixel 9a | 79,900 円 | Tensor G4 | 8 GB | 6.3" OLED 60 Hz | 5,100 mAh | 23 W | 64 MP + 12 MP UW | ○ | 7 年保証 | 193 g |
+| Xperia 1 VI | 179,300 円 | Snapdragon 8 Gen 3 | 12 GB | 6.5" LTPO OLED 1‑120 Hz | 5,000 mAh | 30 W | 48 MP + 12 MP UW + 12 MP 85‑170 mm | ○ | 3 世代 | 192 g |
+

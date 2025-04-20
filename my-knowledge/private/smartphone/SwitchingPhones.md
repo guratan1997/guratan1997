@@ -131,6 +131,17 @@
 | Pixel 9a | 79,900 円 | Tensor G4 | 8 GB | 6.3" OLED | 60 Hz | 5,100 mAh | 23 W | 64 MP + 12 MP UW | ○ | 7 年保証 | 193 g |
 | Xperia 1 VI | 179,300 円 | Snapdragon 8 Gen 3 | 12 GB | 6.5" LTPO OLED | 1‑120 Hz | 5,000 mAh | 30 W | 48 MP + 12 MP UW + 12 MP 85‑170 mm | ○ | 3 世代 | 192 g |
 
+| 機種 | 発売時参考価格 (日本) | SoC | RAM | Geekbench 6<br>**SC / MC** | ディスプレイ | リフレッシュレート | バッテリー | 有線充電 | 背面カメラ構成 | FeliCa | OSアップデート保証 | 重量 |
+|------|----------------------|-----|-----|---------------------------|--------------|-------------------|-----------|-----------|-----------------|--------|-------------------|------|
+| iPhone 11 | 82,280 円 (64 GB) | A13 Bionic | 4 GB | **1706 / 3671** :contentReference[oaicite:0]{index=0} | 6.1" LCD | 60 Hz | 3,110 mAh | 18 W | 12 MP + 12 MP UW | Apple Pay | iOS18対応中 (残≈2年) | 194 g |
+| iPhone 16 | 124,800 円 | A18 | 8 GB | **3323 / 8186** :contentReference[oaicite:1]{index=1} | 6.1" OLED | 60 Hz | 4,085 mAh* | 27 W | 48 MP | Apple Pay | 5–7 年想定 | 173 g |
+| iPhone 16 Pro | 159,800 円 | A18 Pro | 8 GB | **3450 / 8502** :contentReference[oaicite:2]{index=2} | 6.3" OLED | 1‑120 Hz | 4,685 mAh | 35 W | 48 MP + 48 MP UW + 12 MP 5× | Apple Pay | 5–7 年想定 | 203 g |
+| Galaxy S25 | 129,000 円 (256 GB) | Snapdragon 8 Elite | 12 GB | **3175 / 10050** :contentReference[oaicite:3]{index=3} | 6.2" AMOLED | 1‑120 Hz | 4,000 mAh | 25 W | 50 MP + 12 MP UW + 10 MP 3× | ○ | 7 年保証 | 167 g |
+| Galaxy S25 Ultra | 199,800 円 (256 GB) | Snapdragon 8 Elite | 12 GB | **3069 / 9080** :contentReference[oaicite:4]{index=4} | 6.9" AMOLED | 1‑120 Hz | 5,000 mAh | 45 W | 200 MP + 50/48/12 MP | ○ | 7 年保証 | 232 g |
+| Pixel 9 | 128,900 円 | Tensor G4 | 12 GB | **1655 / 4059** :contentReference[oaicite:5]{index=5} | 6.3" OLED | 1‑120 Hz | 4,700 mAh | 27 W | 50 MP + 48 MP UW | ○ | 7 年保証 | 198 g |
+| Pixel 9a | 79,900 円 | Tensor G4 | 8 GB | **1670 / 3453** :contentReference[oaicite:6]{index=6} | 6.3" OLED | 60 Hz | 5,100 mAh | 23 W | 64 MP + 12 MP UW | ○ | 7 年保証 | 193 g |
+| Xperia 1 VI | 179,300 円 | Snapdragon 8 Gen 3 | 12 GB | **2131 / 6292** :contentReference[oaicite:7]{index=7} | 6.5" LTPO OLED | 1‑120 Hz | 5,000 mAh | 30 W | 48 MP + 12 MP UW + 12 MP 85‑170 mm | ○ | 3 世代 | 192 g |
+
 # SoC（System on a Chip）とは？
 
 スマートフォンやタブレット、PCなどに搭載される**主要な頭脳部分**で、複数の重要な機能を1つのチップにまとめたもの。

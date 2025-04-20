@@ -8,6 +8,58 @@
 - 現在利用しているアプリに関して、継続利用が必要なものに関して引き継ぎ利用に支障がない
 - 利用したい格安SIMが利用できる
 
+# LINEのトーク履歴をすべて移行できる機種一覧（2025年版）
+
+## 1. 公式機能だけで“完全移行”できるケース
+
+| 元端末 | 新端末 | 方法 | 主な対応機種（24‑25年モデル例） | 備考 |
+|---|---|---|---|---|
+| **iPhone → iPhone** | iCloudバックアップ／復元 | iPhone 12～16シリーズ、SE(第3世代) など | iOS 17以降 & LINE最新版 |
+| **Android → Android** | Googleドライブバックアップ／復元 | Pixel 8/9、Galaxy S24/S25、Xperia 1 VI/5 VI、AQUOS R9 等 | Android 13以降 & LINE最新版 |
+| **iPhone ↔ Android** | LYPプレミアム「プレミアムバックアップ」 | iPhone：上記条件／Android：Google Play対応端末 | 全履歴＋写真・動画もOK (月額¥500) :contentReference[oaicite:0]{index=0} |
+
+## 2. 公式機能では制限が残るケース
+
+| 元端末 | 新端末 | 移行できる履歴 | 補足 |
+|---|---|---|---|
+| iPhone ↔ Android | 直近14日分のみ | Easy Transfer (QR/PIN)、コイン・通知音不可 :contentReference[oaicite:1]{index=1} |
+
+## 3. 機種選びのチェックリスト
+
+- **OSサポート**  
+  - iOS 17/18対応 (iPhone XR以前は対象外)  
+  - Android 13+ & Google Play 搭載
+- **ストレージ残量**：バックアップと同程度の空き容量が必要  
+- **LINEバージョンを合わせる**：移行前に両端末を最新版へ  
+- **キャリア/SIMは不問**：電話番号変更時はLINE側で番号更新手続き  
+- **移行されないデータ**：LINEコイン、通知音設定、トーク背景 など :contentReference[oaicite:2]{index=2}  
+
+## 4. おすすめ構成例
+
+| タイプ | 具体的機種候補 | こんな人に |
+|---|---|---|
+| **iPhone → iPhone** | iPhone 16/16 Pro/16 Plus/16 Pro Max | Apple PayやApple Watchをそのまま使いたい |
+| **iPhone → Android（王道）** | Galaxy S25 Ultra、Pixel 9 Pro、Xperia 1 VI | Androidでも全履歴を保持したい |
+| **iPhone → Android（低コスト）** | Pixel 9a、Galaxy A25 5G、AQUOS wish 4 | 端末は安価、LYPプレミアム1ヶ月だけ加入 |
+| **Android → iPhone** | iPhone 16 mini（仮）、iPhone SE第4世代 | AndroidからiPhoneへスムーズに乗り換え |
+
+## 5. 手順概要（例：iPhone → Android ＋ プレミアムバックアップ）
+
+1. **旧iPhone**  
+   `設定 > トークのバックアップ > 今すぐバックアップ`
+2. **新Android**  
+   LINE初回起動 → 電話番号ログイン → **プレミアムバックアップから復元** を選択
+3. 復元完了後、スタンプ・テーマを再ダウンロード
+
+---
+
+### まとめ
+
+- **同OS間**ではどの機種でもフル移行可。  
+- **異OS間**は2025年4月開始の **LYPプレミアム「プレミアムバックアップ」** を使えばテキストもメディアも全履歴を移行可能。  
+- Android側は Google Play 対応 & Android 13+ であれば Pixel, Galaxy,
+
+
 # スマホ機種変更に関する会話ログ
 
 ---

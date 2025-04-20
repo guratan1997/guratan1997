@@ -12,23 +12,11 @@
 
 ## 1. 公式機能だけで “完全移行” できるケース
 
-| ケース（移行元 → 移行先） | 移行方法 | 主な対応機種（2024‑25年モデル例） | 必要 OS / LINE 条件 | 備考 |
-|---|---|---|---|---|
-| iPhone → **iPhone** | iCloud バックアップ & 復元 | iPhone 12 以降、iPhone SE(第3世代)〜最新 iPhone 16 シリーズ | iOS 17 以降 ＆ LINE 最新版 | ― |
-| Android → **Android** | Google ドライブ バックアップ & 復元 | Pixel 8/9/9 Pro、Galaxy S24/S25、Xperia 1 VI / 5 VI、AQUOS R9 など | Android 13 以降 ＆ LINE 最新版 | ― |
-| **iPhone ↔ Android**<br>（双方向） | **LYP プレミアム**「プレミアムバックアップ」 | iPhone：上記と同じ／Android：Google Play 搭載端末ならほぼ全機種 | iOS 17+ もしくは Android 13+ ＆ LINE 最新版 | 写真・動画含め全履歴可（月額 ¥500） |
-
-## iPhone → iPhone の LINE トーク履歴 “完全移行” 要件をアップデート
-
-| 元 iPhone | 新 iPhone | 公式サポート OS | LINE バックアップ方法 | 補足 |
-|---|---|---|---|---|
-| **iPhone 11 以降**<br>（iPhone X R／X S も可） | **iPhone 11 以降**（例：iPhone 16 シリーズ・SE 第3世代 など） | **iOS 14 以上**（iOS 17/18 を推奨） | iCloud ドライブ経由で「設定 › トークのバックアップ › 今すぐバックアップ」→ 新端末初回起動時に復元 | iCloud ストレージ残量がトークデータ＋α 必要 |
-
-> **結論**  
-> - **iPhone 11 からでも問題なく“全トーク履歴”を移行できます。**  
-> - 制度上の要件は *「iOS 14 以上 & LINE 最新版」* だけなので、iPhone 11 が動作対象外になる心配はありません。  
-> - Apple 公式の iOS 18 対応機種リストにも **iPhone 11** が含まれています。 :contentReference[oaicite:0]{index=0}  
-> - LINE 側も「iOS 14 以降ならバックアップ／復元可」と明示しています。 :contentReference[oaicite:1]{index=1}  
+| ケース（移行元 → 移行先） | 移行方法 | 
+|---|---|
+| iPhone → **iPhone** | iCloud バックアップ & 復元 | 
+| Android → **Android** | Google ドライブ バックアップ & 復元 |
+| **iPhone ↔ Android**<br>（双方向） | **LYP プレミアム**「プレミアムバックアップ」 | 
 
 ### 手順リマインダー（iPhone 11 → 新 iPhone の例）
 

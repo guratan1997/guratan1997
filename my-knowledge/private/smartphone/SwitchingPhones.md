@@ -115,12 +115,6 @@ https://guide.line.me/ja/migration/
 
 ---
 
-## [ユーザーの状況]
-- 現在：docomo＋iPhone11を使用中
-- 乗り換え希望：Galaxy＋格安SIM（MVNO）
-
----
-
 ## Galaxyへの機種変更＆格安SIM乗り換えの流れ
 
 ### 1. iPhone 11のSIMロック解除

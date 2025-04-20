@@ -5,6 +5,7 @@
 
 ## 引き継ぎ
 - TimeTree
+- LINE　写真
 - Google Map
 - エクスプレス予約
 - Amazon Photo

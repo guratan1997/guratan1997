@@ -30,42 +30,6 @@ https://guide.line.me/ja/migration/
 | iPhone → **Android** | 直近 **14 日分** のトーク（Easy Transfer QR / PIN） | 14 日以前のトーク全文／LINE コイン残高／通知音設定／トーク背景 | 全履歴が必要ならプレミアムバックアップや PC ソフトを検討 |
 | Android → **iPhone** | 直近 **14 日分** のトーク（Easy Transfer QR / PIN） | 同上 | 同上 |
 
-## 3. 機種選びのチェックリスト
-
-- **OSサポート**  
-  - iOS 17/18対応 (iPhone XR以前は対象外)  
-  - Android 13+ & Google Play 搭載
-- **ストレージ残量**：バックアップと同程度の空き容量が必要  
-- **LINEバージョンを合わせる**：移行前に両端末を最新版へ  
-- **キャリア/SIMは不問**：電話番号変更時はLINE側で番号更新手続き  
-- **移行されないデータ**：LINEコイン、通知音設定、トーク背景 など :contentReference[oaicite:2]{index=2}  
-
-## 4. おすすめ構成例
-
-| タイプ | 具体的機種候補 | こんな人に |
-|---|---|---|
-| **iPhone → iPhone** | iPhone 16/16 Pro/16 Plus/16 Pro Max | Apple PayやApple Watchをそのまま使いたい |
-| **iPhone → Android（王道）** | Galaxy S25 Ultra、Pixel 9 Pro、Xperia 1 VI | Androidでも全履歴を保持したい |
-| **iPhone → Android（低コスト）** | Pixel 9a、Galaxy A25 5G、AQUOS wish 4 | 端末は安価、LYPプレミアム1ヶ月だけ加入 |
-| **Android → iPhone** | iPhone 16 mini（仮）、iPhone SE第4世代 | AndroidからiPhoneへスムーズに乗り換え |
-
-## 5. 手順概要（例：iPhone → Android ＋ プレミアムバックアップ）
-
-1. **旧iPhone**  
-   `設定 > トークのバックアップ > 今すぐバックアップ`
-2. **新Android**  
-   LINE初回起動 → 電話番号ログイン → **プレミアムバックアップから復元** を選択
-3. 復元完了後、スタンプ・テーマを再ダウンロード
-
----
-
-### まとめ
-
-- **同OS間**ではどの機種でもフル移行可。  
-- **異OS間**は2025年4月開始の **LYPプレミアム「プレミアムバックアップ」** を使えばテキストもメディアも全履歴を移行可能。  
-- Android側は Google Play 対応 & Android 13+ であれば Pixel, Galaxy,
-
-
 # スマホ機種変更に関する会話ログ
 
 ---

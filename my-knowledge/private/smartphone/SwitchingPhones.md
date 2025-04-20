@@ -18,7 +18,7 @@
 | Android → **Android** | Google ドライブ バックアップ & 復元 |
 | **iPhone ↔ Android**<br>（双方向） | **LYP プレミアム**「プレミアムバックアップ」 | 
 
-※LINE上の写真・動画などはプレミアムバックアップ利用が必要
+※LINE上の写真・動画などはプレミアムバックアップ利用が必要<br>
 https://guide.line.me/ja/migration/
 
 ---

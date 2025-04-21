@@ -5,13 +5,16 @@
 
 ## 引き継ぎ
 - TimeTree
-  - ログインのみ
+  - Gmailアドレスでログインするのみ
+- Google Map
+  - Googleアカウントへのログインのみ
 - キャリアメールにapple、icloud、洋服の青山からメールが届くので修正
 - LINE　写真
-- Google Map
 - エクスプレス予約
+  - エクスプレスアカウントへのログインのみ 
 - Amazon Photo
 - YouTube
+  - Googleアカウントへのログインのみ
 - DAZN
 - Prime Video
 - Spotify

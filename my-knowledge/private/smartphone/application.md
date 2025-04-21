@@ -5,13 +5,13 @@
 
 ## 引き継ぎ
 - TimeTree
-  - Gmailアドレスでログインするのみ
+  - Gmailアドレスでログイン
 - Google Map
   - Googleアカウントへのログインのみ
 - キャリアメールにapple、icloud、洋服の青山からメールが届くので修正
 - LINE　写真
 - エクスプレス予約
-  - エクスプレスアカウントへのログインのみ 
+  - エクスプレスアカウントへのログイン
 - Amazon Photo
 - YouTube
   - Googleアカウントへのログインのみ
@@ -67,13 +67,21 @@
 
 ## インストールのみ
 - 野球速報
+  - Yahoo japan IDでログイン可能 
 - スポーツナビ
+  - Yahoo japan IDでログイン可能 
 - スポーツブル
+  - 特にアカウント登録していない
 - Yahoo乗り換え
+  - Yahoo japan IDでログイン可能 
 - TVer
+  - 特にアカウント登録していない
 - ABEMA TV
+  - 特にアカウント登録していない
 - タクシーGO
+  - Gmailアドレスでログイン可能
 - メルカリ
+  - Googleアカウントでログイン（外部認証（OAuth認証））
 - IAM
 - EPARKお薬手帳
 - Canva

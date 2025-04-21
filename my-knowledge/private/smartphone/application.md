@@ -16,6 +16,7 @@
 - YouTube
   - Googleアカウントへのログインのみ
 - DAZN
+  - DAZNアカウントへのログインのみ
 - Prime Video
 - Spotify
 - 楽天GORA

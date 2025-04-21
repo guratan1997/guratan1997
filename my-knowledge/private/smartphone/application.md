@@ -5,6 +5,7 @@
 
 ## 引き継ぎ
 - TimeTree
+  - ログインのみ
 - キャリアメールにapple、icloud、洋服の青山からメールが届くので修正
 - LINE　写真
 - Google Map

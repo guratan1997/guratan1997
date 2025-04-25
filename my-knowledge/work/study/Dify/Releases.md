@@ -1,6 +1,8 @@
 # リリース（アップデート）
 - https://github.com/langgenius/dify/releases
 
+---
+
 # Dify バージョン1.2.0 と 1.3.0 の差分まとめ
 
 ---

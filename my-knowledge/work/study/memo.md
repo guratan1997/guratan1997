@@ -2,3 +2,4 @@
 - transformer
 - MCP,A2A
 - napkin AI
+- 生成AI活用企業の情報整理、活用事例の整理

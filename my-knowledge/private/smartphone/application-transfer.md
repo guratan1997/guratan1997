@@ -63,7 +63,7 @@
 
 
 
-
+- apple ID
 - iCloudフォト
 - iCloudメモ
 - ウォレット（お財布携帯）

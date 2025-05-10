@@ -113,8 +113,8 @@
 - マクドナルド
 - すかいらーく
 - 食べログ
+  - Googleアカウントへのログインのみ
 - クラロワ
-- ルーレット
 - 雀魂
 - Kindle
 - WEAR
@@ -122,12 +122,20 @@
 - Right-on
 - BEAMS
 - ホットペッパー
+  - 
 - Peatix
+  - Googleアカウントへのログインのみ
 - Notion
+  - Googleアカウントへのログインのみ
 - ChatGPT
+  - Googleアカウントへのログインのみ
+  - Google Authenticatorを先に設定
 - Perplexity
+  - Googleアカウントへのログインのみ
 - Gemini
+  - Googleアカウントへのログインのみ
 - World App
+  - バックアップ（電話番号）
 - Google Authenticator
   - https://support.bitbank.cc/hc/ja/articles/900003847266-%E6%A9%9F%E7%A8%AE%E5%A4%89%E6%9B%B4%E3%82%92%E3%81%99%E3%82%8B%E3%81%AE%E3%81%A7-Google-Authenticator-%E3%81%AE%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E3%82%92%E7%A7%BB%E8%A1%8C%E3%81%97%E3%81%9F%E3%81%84
 - スプレッドシート

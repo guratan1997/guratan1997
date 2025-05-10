@@ -61,8 +61,8 @@
 
 
 
-
-
+- X
+- LINE
 - apple ID
 - iCloudフォト
 - iCloudメモ
@@ -135,8 +135,6 @@
   - Googleアカウントへのログインのみ
 - My Keiba
   - JRA即パッドアカウントの連携（写真確認）
-- X
-- LINE
 - Discord
   - Discordアカウントへのログインのみ
 - Gmail
@@ -144,6 +142,7 @@
 - Instagram
   - Instagramアカウント
 - PayPay
+  - 電話番号・パスワード
 
 ## インストールのみ
 - 野球速報

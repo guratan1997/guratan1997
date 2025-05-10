@@ -119,14 +119,19 @@
 - 食べログ
   - Googleアカウントへのログインのみ
 - クラロワ
+  - supercell ID（Gmail）へのログインのみ
 - 雀魂
+  - Yostarアカウント（Gmail）へのログインのみ
 - Kindle
+  - Amazonアカウントへのログインのみ
 - WEAR
+  - ZOZOZTOWNアカウント（メールアドレス）へのログインのみ
 - ZOZOTOWN
+  - ZOZOZTOWNアカウント（メールアドレス）へのログインのみ
 - Right-on
 - BEAMS
 - ホットペッパー
-  - 
+  - リクルートIDでログインのみ
 - Peatix
   - Googleアカウントへのログインのみ
 - Notion

@@ -159,4 +159,6 @@
 - IAM
 - EPARKお薬手帳
 - Canva
+  - Googleアカウントへのログインのみ
 - Zoom
+  - Googleアカウントへのログインのみ

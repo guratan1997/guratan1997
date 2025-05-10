@@ -69,22 +69,26 @@
 - ウォレット（お財布携帯）
 
 ## 引き継ぎ
+- LINE　写真
+- キャリアメールにapple、icloud、洋服の青山からメールが届くので修正
+- Amazon Photo
+
 - TimeTree
   - Gmailアドレスでログイン
 - Google Map
   - Googleアカウントへのログインのみ
-- キャリアメールにapple、icloud、洋服の青山からメールが届くので修正
-- LINE　写真
 - エクスプレス予約
   - エクスプレスアカウントへのログイン
-- Amazon Photo
 - YouTube
   - Googleアカウントへのログインのみ
 - DAZN
   - DAZNアカウントへのログインのみ
 - Prime Video
+  - Amazonアカウントへのログインのみ
 - Spotify
+  - Googleアカウントへのログインのみ
 - 楽天GORA
+  - 楽天アカウントへのログインのみ
 - マイナポータル
 - PASMO
 - 東京都水道局

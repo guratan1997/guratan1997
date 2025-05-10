@@ -131,13 +131,13 @@
 - スプレッドシート
 - Google ドライブ
 - My Keiba
+  - JRA即パッドアカウントの連携（写真確認）
 - X
 - LINE
 - Discord
 - Gmail
 - Instagram
 - PayPay
-- PASMO
 
 ## インストールのみ
 - 野球速報
@@ -157,7 +157,9 @@
 - メルカリ
   - Googleアカウントでログイン（外部認証（OAuth認証））
 - IAM
+  - 特になし
 - EPARKお薬手帳
+  - アプリアカウントへのログインのみ
 - Canva
   - Googleアカウントへのログインのみ
 - Zoom

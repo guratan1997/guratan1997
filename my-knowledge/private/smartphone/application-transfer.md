@@ -129,6 +129,7 @@
 - ZOZOTOWN
   - ZOZOZTOWNアカウント（メールアドレス）へのログインのみ
 - Right-on
+  - なし
 - BEAMS
 - ホットペッパー
   - リクルートIDでログインのみ

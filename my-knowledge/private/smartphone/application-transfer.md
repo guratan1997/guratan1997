@@ -105,6 +105,7 @@
 - 楽天カード
 - SBI証券（NISA）
 - 三井住友信託（確定拠出年金）
+  - 確定拠出年金のID・暗証番号利用
 - JA共済
 - Vポイントペイ
 - Uber Eats
@@ -129,14 +130,19 @@
 - World App
 - Authenticator
 - スプレッドシート
+  - Googleアカウントへのログインのみ
 - Google ドライブ
+  - Googleアカウントへのログインのみ
 - My Keiba
   - JRA即パッドアカウントの連携（写真確認）
 - X
 - LINE
 - Discord
+  - Discordアカウントへのログインのみ
 - Gmail
+  - Googleアカウントへのログインのみ
 - Instagram
+  - Instagramアカウント
 - PayPay
 
 ## インストールのみ
